@@ -61,6 +61,8 @@ The tidyverse and r-lib packages have an *aspirational* and developing style gui
 
 Project oriented workflow blog post: <https://www.tidyverse.org/blog/2017/12/workflow-vs-script/>
 
+Workshop materials re: "What They Forgot to Teach You About R": <https://rstats.wtf/>
+
 ---
 
 > One of the most useful things I’ve learned from hanging out with (much) better programmers: don’t wring hands and speculate. Work a small example that reveals, confirms, or eliminates something.
