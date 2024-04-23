@@ -32,7 +32,7 @@ Annotated and hyperlink-y list of resources related to the slides
 Related talks
 
 * Zen And The aRt Of Workflow Maintenance, <https://github.com/jennybc/zen-art-workflow>
-* Code Smells and Feels, < https://github.com/jennybc/code-smells-and-feels>
+* Code Smells and Feels, <https://github.com/jennybc/code-smells-and-feels>
 * Debugging, <https://github.com/jennybc/debugging>
 * How to Name Files <https://github.com/jennybc/how-to-name-files>
 
